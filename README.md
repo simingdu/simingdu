@@ -28,3 +28,18 @@ I'm interested in **data and product analytics**, especially using data to under
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## Featured Projects
+
+### 📺 [Netflix Content Strategy Analysis](https://github.com/simingdu/netflix-content-strategy-analysis)
+
+Exploratory analysis of **8,807 Netflix titles** to examine catalog composition, growth over time, and genre distribution.
+
+**Tech:** Python · pandas · Matplotlib · Jupyter Notebook
+
+- Analyzed the distribution of **6,131 Movies and 2,676 TV Shows**
+- Examined Netflix catalog growth from **2008–2021**, identifying 2019 as the peak year for title additions
+- Transformed multi-label genre data into **19,323 genre appearances across 42 categories**
+- Identified International Movies, Dramas, and Comedies as the most frequently represented genre categories
+
+[View Project →](https://github.com/simingdu/netflix-content-strategy-analysis)
