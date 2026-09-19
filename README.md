@@ -37,9 +37,8 @@ Exploratory analysis of **8,807 Netflix titles** to examine catalog composition,
 
 **Tech:** Python · pandas · Matplotlib · Jupyter Notebook
 
-- Analyzed the distribution of **6,131 Movies and 2,676 TV Shows**
-- Examined Netflix catalog growth from **2008–2021**, identifying 2019 as the peak year for title additions
-- Transformed multi-label genre data into **19,323 genre appearances across 42 categories**
-- Identified International Movies, Dramas, and Comedies as the most frequently represented genre categories
+- Worked with **8,807 Netflix titles** to compare Movies vs. TV Shows and track catalog growth from 2008–2021
+- Reshaped multi-label genre data into **19,323 genre appearances across 42 categories**
+- Found that International Movies, Dramas, and Comedies were the most common genre categories in the dataset
 
 [View Project →](https://github.com/simingdu/netflix-content-strategy-analysis)
