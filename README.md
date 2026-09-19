@@ -8,7 +8,7 @@ I'm interested in **data and product analytics**, especially using data to under
 
 - 🎓 Currently pursuing a Master of Analytics at UC Berkeley
 - 📊 Interested in data analytics, product analytics, and business analytics
-- 🔍 I enjoy turning messy data into clear insights and actionable decisions
+- 🔍 I enjoy exploring messy datasets and figuring out what the patterns actually mean
 - 🌱 Currently expanding my skills in SQL, machine learning, optimization, and data-driven decision making
 
 ## Technical Toolkit
