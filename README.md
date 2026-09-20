@@ -42,3 +42,16 @@ Exploratory analysis of **8,807 Netflix titles** to examine catalog composition,
 - Found that International Movies, Dramas, and Comedies were the most common genre categories in the dataset
 
 [View Project →](https://github.com/simingdu/netflix-content-strategy-analysis)
+
+### 📊 [Information Visualization in R](https://github.com/simingdu/information-visualization-r)
+
+R-based visualization project using campaign finance data to explore how filtering, scale, and framing can change the way a chart is interpreted.
+
+**Tech:** R · ggplot2 · dplyr · Data Visualization · EDA
+
+- Analyzed Federal Election Commission candidate summary data across election cycles from 2008-2022
+- Built exploratory visualizations for candidate records, campaign receipts, and receipt distributions
+- Created paired visualization case studies to show how filtering, axis choices, uncertainty, and color can influence interpretation
+- Reorganized my individual course contributions into a reproducible standalone portfolio project
+
+[View Project →](https://github.com/simingdu/information-visualization-r)
