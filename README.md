@@ -55,3 +55,15 @@ R-based visualization project using campaign finance data to explore how filteri
 - Reorganized my individual course contributions into a reproducible standalone portfolio project
 
 [View Project →](https://github.com/simingdu/information-visualization-r)
+
+### 🔎 [Information Retrieval Search Engine](https://github.com/simingdu/information-retrieval-search-engine)
+
+Information retrieval project progressing from individual text processing to web crawling and a three-person search engine.
+
+**Tech:** Python · Information Retrieval · Web Crawling · Inverted Indexes · Search Ranking
+
+- Built a streaming tokenizer and memory-aware token intersection utilities from scratch
+- Improved crawler robustness with URL canonicalization, 5 MB page-size safeguards, and stricter low-information filtering
+- Contributed to a three-person search engine that indexed **50,034 documents**, skipped **5,073 exact duplicates**, and used disk-based lookup for an approximately **561 MB index**
+
+[View Project →](https://github.com/simingdu/information-retrieval-search-engine)
