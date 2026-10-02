@@ -43,6 +43,18 @@ Exploratory analysis of **8,807 Netflix titles** to examine catalog composition,
 
 [View Project →](https://github.com/simingdu/netflix-content-strategy-analysis)
 
+### 🚶 [Human Activity Recognition with KNN](https://github.com/simingdu/human-activity-recognition-knn)
+
+Machine learning project using smartphone sensor features to classify six human activities with a K-Nearest Neighbors model.
+
+**Tech:** Python · NumPy · scikit-learn · Matplotlib
+
+- Worked with **7,352 training samples**, **2,947 test samples**, and **561 sensor-derived features** across six activity classes
+- Standardized input features and evaluated `k = 1–20` using **5-fold stratified cross-validation**
+- Selected `k = 1` and achieved **85.34% accuracy** on the held-out test set, with a classification report and confusion matrix for evaluation
+
+[View Project →](https://github.com/simingdu/human-activity-recognition-knn)
+
 ### 📊 [Information Visualization in R](https://github.com/simingdu/information-visualization-r)
 
 R-based visualization project using campaign finance data to explore how filtering, scale, and framing can change the way a chart is interpreted.
